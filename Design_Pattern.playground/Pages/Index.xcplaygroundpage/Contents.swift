@@ -18,7 +18,7 @@
  
  ### Behavioral 行为型
  * [职责链模式-Chain of Responsibility Pattern](ChainOfResponsibility)
- * [命令模式-Command Pattern]
+ * [命令模式-Command Pattern](Command)
  * [解释器模式-Interpreter Pattern]
  * [迭代器模式-Iterator Pattern]
  * [中介者模式-Mediator Pattern]
@@ -32,6 +32,6 @@
  
  
  参考文章:
-     1. [http://blog.csdn.net/lovelion/article/details/17517213](http://blog.csdn.net/lovelion/article/details/17517213)
-     2. [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+ 1. [史上最全设计模式导学目录（完整版）](http://blog.csdn.net/lovelion/article/details/17517213)
+ 2. [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
  */

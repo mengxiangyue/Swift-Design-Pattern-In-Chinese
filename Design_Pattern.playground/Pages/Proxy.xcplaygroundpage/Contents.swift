@@ -1,5 +1,5 @@
 /*:
- ### **Singleton**
+ ### **Proxy**
  ---
  
  [回到列表](Index)
