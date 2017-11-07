@@ -16,6 +16,19 @@
  * [享元模式 Flyweight Pattern](Flyweight)
  * [代理模式 Proxy Pattern](Proxy)
  
+ ### Behavioral 行为型
+ * [职责链模式-Chain of Responsibility Pattern](ChainOfResponsibility)
+ * [命令模式-Command Pattern]
+ * [解释器模式-Interpreter Pattern]
+ * [迭代器模式-Iterator Pattern]
+ * [中介者模式-Mediator Pattern]
+ * [备忘录模式-Memento Pattern]
+ * [观察者模式-Observer Pattern]
+ * [状态模式-State Pattern]
+ * [策略模式-Strategy Pattern]
+ * [模板方法模式-Template Method Pattern]
+ * [访问者模式-Visitor Pattern]
+ 
  
  
  参考文章:
