@@ -17,5 +17,6 @@
         <page name='Proxy'/>
         <page name='ChainOfResponsibility'/>
         <page name='Command'/>
+        <page name='Interpreter'/>
     </pages>
 </playground>

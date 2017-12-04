@@ -34,4 +34,7 @@
  参考文章:
  1. [史上最全设计模式导学目录（完整版）](http://blog.csdn.net/lovelion/article/details/17517213)
  2. [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+ 
+ ### 问题
+ * [解释器模式-Interpreter Pattern]例子中的表达式的 relace 方法作用不懂？
  */
