@@ -19,5 +19,7 @@
         <page name='Command'/>
         <page name='Interpreter'/>
         <page name='Iterator'/>
+        <page name='Mediator'/>
+        <page name='Memento'/>
     </pages>
 </playground>
